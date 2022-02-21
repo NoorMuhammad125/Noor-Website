@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+        
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+    /* align-items: center; */
+}
+.para1{
+    
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 17px;
+
+
+}
+.bara{
+    font-size: 45px;
+}
+
+.first{
+     min-height: 8vh;;
+}
+a{
+    text-decoration:none;
+    color: blue;
+}
+.second{
+    text-align: center;
+    /* background-color: burlywood; */
+    background-image: url(./image/6.jpg);
+    height: 500px;
+    background-repeat:no-repeat ;
+   -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;   
+    
+
+}
+.font{
+    font-size: 19px;
+}
+.third{
+    height:300px;
+    width:50%;
+    
+    
+}
+.four{
+    text-align: center;
+    background-color: black;
+    background-image: url(./image/4.jpg);
+    height: 500px;
+    background-repeat:no-repeat ;
+   -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;   
+
+}
+.h{
+    color: white;
+    font-weight: 200px;
+    font-size: 45px;
+}
+
+.hh{
+    color:pink;
+}
+.color{
+    color: red;
+}
+.link{
+    color: black;
+}
+.five{
+    text-align: center;
+    /* margin-top: 20px; */
+    background-image: url(./image/2.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+ -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;           /* CSS3-compliant browsers */
+
+   /* -moz-border-image: url(./image/2.jpg) 0;  
+ background-size: cover;  /* Gecko 1.9.1 (
+     */
+    
+}
+.seven{
+    width: 100%;
+    display: flex;
+}
+.seven1{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 49%;
+    text-align: center;
+    background-image: url(./image/24.jpg);
+    height:500px;
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;    
+
+}
+.seven2{
+
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 49%;
+    text-align: center;
+    background-image: url(./image/22.jpg);
+    height:500px;
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;    
+
+}
+.eight{
+    
+        width: 100%;
+        display: flex;
+}
+.eight1{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 49%;
+    text-align: center;
+    background-image: url(./image/18.jpg);
+    height:500px;
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;    
+}
+.eight2{
+
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 49%;
+    text-align: center;
+    background-image: url(./image/20.jpg);
+    height:500px;
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%;
+        color:white; 
+
+
+}
+.nine{
+    width: 100%;
+    display: flex;
+
+}
+.nine1{
+
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 49%;
+    text-align: center;
+    background-image: url(./image/28.jpg);
+    height:500px;
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%; 
+
+}
+.nine2{
+
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 49%;
+    text-align: center;
+    background-image: url(./image/16.jpg);
+    height:500px;
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+     -o-background-size: 100% 100%;           /* Opera 9.5 */
+-webkit-background-size: 100% 100%;           /* Safari 3.0 */
+        background-size: 100% 100%; 
+
+}
+.ten{
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    /* text-align: center; */
+    background-color:whitesmoke;
+    line-height: 20px;
+    
+
+}
+.ten1{
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.eleven1{
+    width:100%;
+    text-align: center;
+    height: 450px;
+}
+.eleven{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: whitesmoke;
+}
+span{
+    word-spacing: 10px;
+}
